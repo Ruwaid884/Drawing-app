@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="brush_size_medium" type="id" />
+    <item name="fl_drawingContainer" type="id" />
+</resources>
